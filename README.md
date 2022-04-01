@@ -23,4 +23,4 @@ El API de quotes es muy limitado en la cantidad de requests que puede hacer y se
 El registro e inicio de sesión estan conectados a firebase, identificara si una cuenta ya esta registrada, no existe o si la contraseña es incorrecta.
 
 
-En el caso del biometrico si acepta la huella del propietario del telefono podra entrar a la app sin ningun problema.
+En el caso del biometrico si acepte la huella del propietario del telefono podra entrar a la app sin ningun problema.
