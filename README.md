@@ -6,3 +6,15 @@
 
 
 Los biometricos actualmente solo funcionan para Android.
+
+
+https://quotes.rest/qod?language=en
+
+{
+    "error": {
+        "code": 429,
+        "message": "Too Many Requests: Rate limit of 10 requests per hour exceeded. Please wait for 44 minutes and 48 seconds."
+    }
+}
+
+El API de quotes es muy limitado en la cantidad de requests que puede hacer y se opto por dejar un mensaje por default en caso de que el API no responda satisfactoriamente.
